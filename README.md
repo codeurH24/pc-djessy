@@ -6,6 +6,7 @@
 |-----------|--------|------|
 | **Carte graphique** | RTX 5060 | 309€ |
 | **Écran** | AOC Gaming Q27G4XND (27" QHD) | 139€ |
+| **Stockage** | Kingston NV3 M.2 1To | 59€ |
 
 **Sous-total Amazon :** 448€  
 **Frais de port :** 0€ (Prime)  
@@ -17,7 +18,7 @@
 
 | Composant | Modèle | Prix |
 |-----------|--------|------|
-| **Processeur** | AMD Ryzen 5 5500 | 68€ |
+| **Processeur** | AMD Ryzen 5 5600 | 84€ |
 | **Carte mère** | Gigabyte B550M DS3H WiFi | 84€ |
 
 **Sous-total Materiel.net :** 152€  
@@ -31,7 +32,6 @@
 | Composant | Modèle | Prix |
 |-----------|--------|------|
 | **Mémoire** | Kingston FURY Beast 32 Go (2x16) | 40€ |
-| **Stockage** | Patriot P300 M.2 1To | 55€ |
 | **Alimentation** | MSI MAG A650BN (650W) | 53€ |
 | **Ventirad CPU** | Thermalright Burst Assassin 120 SE | 30€ |
 | **Pâte thermique** | - | 5€ |
@@ -54,6 +54,13 @@
 **TOTAL CONFIGURATION :** **829€**
 
 ---
+
+## Critères de sélection.
+
+| Composant |  |
+|-----------|--------|
+| **Stockage**      | - 6GB/s pour 59 euros     |
+| **Processeur**    | - PCIE 4.0                |
 
 ## 📋 Politiques de livraison
 
